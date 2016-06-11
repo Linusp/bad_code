@@ -4,7 +4,7 @@ SOURCE = $(wildcard *.c)
 DIR_BIN = bin
 BINS = $(patsubst %.c, $(DIR_BIN)/%, $(SOURCE))
 
-C_FLAGS = ""
+C_FLAGS =
 
 all:$(BINS)
 

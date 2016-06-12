@@ -1,0 +1,4 @@
+* Bad C Code
+
+  + bad_loop.c: 咦，为什么死循环了？
+  + strange_loop.c: 咦，为什么不死循环了？
